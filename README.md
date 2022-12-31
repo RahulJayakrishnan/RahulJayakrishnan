@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RahulJayakrishnan
+- 👋 Hi, I’m @RahulJayakrishnan  
 I'm a software engineer with a passion for web3 and decentralized technologies.  
 SWE at Salesforce, Ex Oracle  
 Masters in Computer Engineering- Disributed Systems at Gorgia Tech.  
