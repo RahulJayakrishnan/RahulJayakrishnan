@@ -7,7 +7,7 @@ Software Developer, Web3 Enthusiast
 I'm a software engineer with a passion for web3 and decentralized technologies.  
 SWE at Salesforce | Ex Oracle | Masters in Computer Engineering- Distributed Systems at Georgia Tech  
 
-* 🌍  I'm based in San Fracisco
+* 🌍  I'm based in San Francisco
 * ✉️  You can contact me at [rahuljayd@gmail.com](mailto:rahuljayd@gmail.com)
 * 🧠  I'm learning rust & substrate_
 * 🤝  I'm open to collaborating on open source projects in the crypto space
