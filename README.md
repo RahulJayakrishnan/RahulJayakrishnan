@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer, Web3 Enthusiast
 -----------------------------------
 
-I'm a software engineer with a passion for web3 and decentralized technologies. SWE at Salesforce, Ex Oracle Masters in Computer Engineering- Distributed Systems at Georgia Tech. Hit me up if you'd like to collaborate on open-source projects in the web3 space! With experience in Solidity, decentralized systems, and smart contract development, I'm always eager to learn and contribute to the web3 community.
+I'm a software engineer with a passion for web3 and decentralized technologies.  
+SWE at Salesforce | Ex Oracle | Masters in Computer Engineering- Distributed Systems at Georgia Tech  
 
 * 🌍  I'm based in San Fracisco
 * ✉️  You can contact me at [rahuljayd@gmail.com](mailto:rahuljayd@gmail.com)
