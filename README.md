@@ -9,7 +9,7 @@ SWE at Salesforce | Ex Oracle | Masters in Computer Engineering- Distributed Sys
 
 * 🌍  I'm based in San Fracisco
 * ✉️  You can contact me at [rahuljayd@gmail.com](mailto:rahuljayd@gmail.com)
-* 🧠  I'm learning substrate\_
+* 🧠  I'm learning rust & substrate_
 * 🤝  I'm open to collaborating on open source projects in the crypto space
 
 ### Skills
