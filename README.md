@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer, Web3 Enthusiast
 -----------------------------------
 
-I'm a software engineer with a passion for web3 and decentralized technologies.  
+I'm a software engineer with a passion for web3 and the cryto space.  
 SWE @ Salesforce | Ex Oracle | Masters in Computer Engineering- Distributed Systems @ Georgia Tech  
 
 * 🌍  I'm based in San Francisco
