@@ -8,7 +8,7 @@ I'm a software engineer with a passion for web3 and the crypto space.
 SWE @ Salesforce | Ex Oracle | Masters in Computer Engineering- Distributed Systems @ Georgia Tech  
 
 * 🌍  I'm based in San Francisco
-* ✉️  You can contact me at [rahuljayd@gmail.com](mailto:rahuljayd@gmail.com)
+* ✉️  You can contact me at [rahuljayd@gmail.com](mailto:rahul.jk@gatech.edu)
 * 🧠  I'm learning rust & substrate_
 * 🤝  I'm open to collaborating on open source projects in the crypto space
 
